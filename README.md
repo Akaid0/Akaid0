@@ -3,6 +3,12 @@
 <!--
 **Akaid0/Akaid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+After 10 years in hospitality I finally decided to face greater challenges and started this career transition. Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code.
+
+After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more.
+
+What else ? I love running, interesting story telling and 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
