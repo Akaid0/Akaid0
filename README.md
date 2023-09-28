@@ -6,12 +6,12 @@ Frontend developer
 
 After 10 years in hospitality I finally decided to face greater challenges and started this career transition. Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more. What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)
 
-* 🌍  I'm based in the all world (The pleasure to work remotly)
-* 🖥️  See my portfolio at [My portfolio](http://myportfolio.com)
-* ✉️  You can contact me at [hochedezluca@live.fr](mailto:hochedezluca@live.fr)
-* 🚀  I'm currently working on [Hotel&Go](http://https://hotelandgo-client.netlify.app/)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on web development projects (As long as it is challenging)
+* 🌍  I'm based Remotly
+* 🖥️  See my portfolio  [here](http://myportfolio.com)
+* ✉️  Feel free to contact me --> [hochedezluca@live.fr](mailto:hochedezluca@live.fr)
+* 🚀  I'm currently working on [Hotel&Go](http://https://hotelandgo-client.netlify.app/), check out the [repository](https://github.com/Akaid0/hotel-and-go) and help me to make it better !
+* 🧠  I'm learning Angular and improving diverse CSS framework (SASS, Bootstrap, Tailwind)
+* 🤝  I'm open to collaborating on Web Development Projects !
 
 ### Skills
 
@@ -39,7 +39,7 @@ After 10 years in hospitality I finally decided to face greater challenges and s
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Akaid0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lucawebdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Akaid0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>&nbsp; <a href="https://www.linkedin.com/in/lucawebdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
