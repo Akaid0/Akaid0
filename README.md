@@ -9,9 +9,9 @@ Overwhelming at first but terribly exhilarating, everyday I solve new problems, 
 What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)
 <br/>
 <p>🌍  I'm based Remotly</p>
-<p>🖥️  See my portfolio  [here](http://myportfolio.com)</p>
-<p>✉️  Feel free to contact me --> [hochedezluca@live.fr](mailto:hochedezluca@live.fr)</p>
-<p>🚀  I'm currently working on [Hotel&Go](http://https://hotelandgo-client.netlify.app/), check out the [repository](https://github.com/Akaid0/hotel-and-go) and help me to make it better !</p>
+<p>🖥️  See my portfolio <a href="">here</a></p>
+<p>✉️  Feel free to contact me --> <a href="mailto:hochedezluca@live.fr">hochedezluca@live.fr</a></p>
+<p>🚀  I'm currently working on <a href="https://hotelandgo-client.netlify.app/">Hotel&Go</a>, check out the <a href="https://github.com/Akaid0/hotel-and-go">repository</a> and help me to make it better !</p>
 <p>🧠  I'm learning Angular and improving diverse CSS framework (SASS, Bootstrap, Tailwind)</p>
 <p>🤝  I'm open to collaborating on Web Development Projects !</p>
 
