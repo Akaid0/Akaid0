@@ -8,12 +8,12 @@ After 10 years in hospitality I finally decided to face greater challenges and s
 Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more. 
 What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)
 <br/>
-🌍  I'm based Remotly
-🖥️  See my portfolio  [here](http://myportfolio.com)
-✉️  Feel free to contact me --> [hochedezluca@live.fr](mailto:hochedezluca@live.fr)
-🚀  I'm currently working on [Hotel&Go](http://https://hotelandgo-client.netlify.app/), check out the [repository](https://github.com/Akaid0/hotel-and-go) and help me to make it better !
-🧠  I'm learning Angular and improving diverse CSS framework (SASS, Bootstrap, Tailwind)
-🤝  I'm open to collaborating on Web Development Projects !
+<p>🌍  I'm based Remotly</p>
+<p>🖥️  See my portfolio  [here](http://myportfolio.com)</p>
+<p>✉️  Feel free to contact me --> [hochedezluca@live.fr](mailto:hochedezluca@live.fr)</p>
+<p>🚀  I'm currently working on [Hotel&Go](http://https://hotelandgo-client.netlify.app/), check out the [repository](https://github.com/Akaid0/hotel-and-go) and help me to make it better !</p>
+<p>🧠  I'm learning Angular and improving diverse CSS framework (SASS, Bootstrap, Tailwind)</p>
+<p>🤝  I'm open to collaborating on Web Development Projects !</p>
 
 ### Skills
 
