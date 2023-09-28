@@ -4,7 +4,9 @@ My name is Luca Hochedez
 Frontend developer
 ------------------
 
-After 10 years in hospitality I finally decided to face greater challenges and started this career transition. Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more. What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)
+After 10 years in hospitality I finally decided to face greater challenges and started this career transition.
+Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more. 
+What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)
 
 * 🌍  I'm based Remotly
 * 🖥️  See my portfolio  [here](http://myportfolio.com)
@@ -48,6 +50,8 @@ After 10 years in hospitality I finally decided to face greater challenges and s
 <a href="https://github.com/Akaid0" >
 <img height="210" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaid0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  />
 </a>
-<a href="http://www.github.com/Akaid0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akaid0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Akaid0">
+  <img height="210" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akaid0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
 
