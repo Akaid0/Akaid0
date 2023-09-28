@@ -4,8 +4,8 @@ My name is Luca Hochedez
 Frontend developer
 ------------------
 
-<p>After 10 years in hospitality I finally decided to face greater challenges and started this career transition.</p>
-<p>Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more. </p>
+<span>After 10 years in hospitality I finally decided to face greater challenges and started this career transition.<br/>
+Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more. </span>
 <p>What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)</p>
 <br/>
 <p>🌍  I'm based Remotly</p>
