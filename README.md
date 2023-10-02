@@ -1,4 +1,4 @@
-My name is Luca Hochedez
+My name is Luca
 ==============================
 
 Frontend developer
