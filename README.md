@@ -5,15 +5,15 @@ Frontend developer
 ------------------
 
 <span>After 10 years in hospitality I finally decided to face greater challenges and started this career transition.<br/>
-Overwhelming at first but terribly exhilarating, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self taught journey and developing various project I feel the need to join a team, a company, who make me grow even more. </span>
+Overwhelmed at first but terrifically exhilarated, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self-taught journey and developing various projects I feel the need to join a team, a company, to grow as a professional and exchange knowledge with my peers. </span>
 <p>What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)</p>
 <br/> 
-<p>🌍  I'm based Remotly</p>
+<p>🌍  I'm based remotly</p>
 <p>🖥️  See my portfolio <a href="">here</a></p>
 <p>✉️  Feel free to contact me --> <a href="mailto:hochedezluca@live.fr">hochedezluca@live.fr</a></p>
 <p>🚀  I'm currently working on <a href="https://hotelandgo-client.netlify.app/">Hotel&Go</a>, check out the <a href="https://github.com/Akaid0/hotel-and-go">repository</a> and help me to make it better !</p>
-<p>🧠  I'm learning Angular and improving diverse CSS framework (SASS, Bootstrap, Tailwind)</p>
-<p>🤝  I'm open to collaborating on Web Development Projects !</p>
+<p>🧠  I'm learning Angular and improving diverse CSS frameworks (SASS, Bootstrap, Tailwind)</p>
+<p>🤝  I'm open for collaborations on web development projects !</p>
 
 ### Skills
 
