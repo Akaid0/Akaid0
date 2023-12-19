@@ -11,7 +11,7 @@ Overwhelmed at first but terrifically exhilarated, everyday I solve new problems
 <p>🌍  I'm based remotely</p>
 <p>🖥️  See my portfolio <a href="https://luca-frontdev.netlify.app/" target="_blank">here</a></p>
 <p>✉️  Feel free to contact me --> <a href="mailto:hochedezluca@live.fr" target="_blank">hochedezluca@live.fr</a></p>
-<p>📱  or text me directly on <a href="https://t.me/luca_frontend" target="_blank">hochedezluca@live.fr</a></p>
+<p>📱  or text me directly on <a href="https://t.me/luca_frontend" target="_blank">Telegram</a></p>
 <p>🚀  I'm currently working on <a href="https://hotelandgo-client.netlify.app/" target="_blank">Hotel&Go</a>, check out the <a href="https://github.com/Akaid0/hotel-and-go" target="_blank">repository</a> and help me to make it better !</p>
 <p>🧠  I'm learning Angular and improving diverse CSS frameworks (SASS, Bootstrap, Tailwind)</p>
 <p>🤝  I'm open for collaborations on web development projects !</p>
