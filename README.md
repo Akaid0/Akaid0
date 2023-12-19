@@ -9,7 +9,7 @@ Overwhelmed at first but terrifically exhilarated, everyday I solve new problems
 <p>What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)</p>
 <br/> 
 <p>🌍  I'm based remotely</p>
-<p>🖥️  See my portfolio <a href="">here</a></p>
+<p>🖥️  See my portfolio <a href="https://luca-frontdev.netlify.app/">here</a></p>
 <p>✉️  Feel free to contact me --> <a href="mailto:hochedezluca@live.fr">hochedezluca@live.fr</a></p>
 <p>🚀  I'm currently working on <a href="https://hotelandgo-client.netlify.app/">Hotel&Go</a>, check out the <a href="https://github.com/Akaid0/hotel-and-go">repository</a> and help me to make it better !</p>
 <p>🧠  I'm learning Angular and improving diverse CSS frameworks (SASS, Bootstrap, Tailwind)</p>
