@@ -3,7 +3,7 @@ My name is Luca
 
 Frontend developer
 ------------------
- 
+
 <span>After 10 years in hospitality I finally decided to face greater challenges and started this career transition.<br/>
 Overwhelmed at first but terrifically exhilarated, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self-taught journey and developing various projects I feel the need to join a team, a company, to grow as a professional and exchange knowledge with my peers. </span>
 <p>What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)</p>
