@@ -4,7 +4,9 @@ My name is Luca
 Frontend developer
 ------------------
 
-<span>Results-driven web developer specializing in frontend technologies—JavaScript, React, and UI/UX optimization. I have proven success in enhancing e-commerce interfaces, optimizing user engagement, and boosting email conversion rates.<br/>Eager to transition and leverage expertise into backend technologies for a holistic full-stack proficiency being committed to delivering flawless user experiences and contributing to innovative, collaborative projects. Ready to bring a unique blend of frontend mastery and a growing backend skill set to a dynamic team.</p>
+<span>Results-driven web developer specializing in frontend technologies—JavaScript, React, and UI/UX optimization. I have proven success in enhancing e-commerce interfaces, optimizing user engagement, and boosting email conversion rates.<br> <br>
+Eager to transition and leverage expertise into backend technologies for a holistic full-stack proficiency being committed to delivering flawless user experiences and contributing to innovative, collaborative projects. <br> <br> 
+Ready to bring a unique blend of frontend mastery and a growing backend skill set to a dynamic team.</p>
 <br/> 
 <p>🖥️  See my portfolio <a href="https://luca-frontdev.netlify.app/" target="_blank">here</a></p>
 <p>✉️  Feel free to contact me --> <a href="mailto:hochedezluca@live.fr" target="_blank">hochedezluca@live.fr</a></p>
