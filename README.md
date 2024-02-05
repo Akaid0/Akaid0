@@ -4,17 +4,15 @@ My name is Luca
 Frontend developer
 ------------------
 
-<span>After 10 years in hospitality I finally decided to face greater challenges and started this career transition.<br/>
-Overwhelmed at first but terrifically exhilarated, everyday I solve new problems, learn different ways to proceed and write my code. After a year of freelance work, pursuing my self-taught journey and developing various projects I feel the need to join a team, a company, to grow as a professional and exchange knowledge with my peers. </span>
-<p>What else ? I love running, discovering interesting story telling, solving problems and travelling the world. (I basically summarized Genshin Impact)</p>
+<span>Results-driven web developer specializing in frontend technologies—JavaScript, React, and UI/UX optimization. I have proven success in enhancing e-commerce interfaces, optimizing user engagement, and boosting email conversion rates.<br/>Eager to transition and leverage expertise into backend technologies for a holistic full-stack proficiency being committed to delivering flawless user experiences and contributing to innovative, collaborative projects. Ready to bring a unique blend of frontend mastery and a growing backend skill set to a dynamic team.</p>
 <br/> 
-<p>🌍  I'm based remotely</p>
 <p>🖥️  See my portfolio <a href="https://luca-frontdev.netlify.app/" target="_blank">here</a></p>
 <p>✉️  Feel free to contact me --> <a href="mailto:hochedezluca@live.fr" target="_blank">hochedezluca@live.fr</a></p>
 <p>📱  or text me directly on <a href="https://t.me/luca_frontend" target="_blank">Telegram</a></p>
 <p>🚀  I'm currently working on <a href="https://hotelandgo-client.netlify.app/" target="_blank">Hotel&Go</a>, check out the <a href="https://github.com/Akaid0/hotel-and-go" target="_blank">repository</a> and help me to make it better !</p>
-<p>🧠  I'm learning Angular and improving diverse CSS frameworks (SASS, Bootstrap, Tailwind)</p>
+<p>🧠  I'm learning Python and diving more and into backend technologies</p>
 <p>🤝  I'm open for collaborations on web development projects !</p>
+<p>📄 Know about my <a href="https://luca-frontdev.netlify.app/static/media/lucahochedezcv.92f6dbfeeeb40f926797.pdf">experiences</a></p>
 
 ### Skills
 
@@ -33,6 +31,17 @@ Overwhelmed at first but terrifically exhilarated, everyday I solve new problems
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp;
+
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+  
 </p>
 
 
